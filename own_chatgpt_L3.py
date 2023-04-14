@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "<your AP key>"
 
 messages = [{"role":"system", "content": "You are a Danish langauge tutor"}]
 
